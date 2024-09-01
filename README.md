@@ -1,4 +1,4 @@
-# Wandering Aimlessly - A-Lethal Company Modpack
+# Wandering Aimlessly - A Lethal Company Modpack
 
 ## If you like funny and helpful mods...
 This might be the modpack for you.
