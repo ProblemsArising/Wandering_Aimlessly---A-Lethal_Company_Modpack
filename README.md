@@ -1,4 +1,5 @@
-# Wandering Aimlessly - A Lethal Company Modpack
+# Wandering Aimlessly
+(If you see this under "join" in LC I'm playing vanilla)
 
 ## If you like funny and helpful mods...
 This might be the modpack for you.
